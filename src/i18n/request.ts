@@ -4,6 +4,7 @@ import { routing } from "./routing";
 import en from "@/locales/en.json";
 
 type Messages = typeof en;
+const SUPPORTED_LOCALES = ["en", "ja", "ru"] as const;
 
 function deepMerge<T>(base: T, override: Partial<T>): T {
   if (
@@ -38,7 +39,7 @@ export default getRequestConfig(async ({ requestLocale }) => {
     : routing.defaultLocale;
 
   let localeMessages: Partial<Messages> = {};
-  if (locale !== "en") {
+  if (locale !== "en" && (SUPPORTED_LOCALES as readonly string[]).includes(locale)) {
     try {
       const imported = await import(`@/locales/${locale}.json`);
       localeMessages = imported.default || imported;

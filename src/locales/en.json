@@ -1,372 +1,392 @@
 {
   "site": {
-    "name": "My Seafood Stand Wiki",
-    "shortName": "My Seafood Stand",
-    "tagline": "Complete Guides, Codes, Recipes & Tier Lists",
-    "description": "Your ultimate guide to My Seafood Stand on Roblox! Explore active codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
-    "legalNotice": "Non-official fan wiki. Made by players, for players."
+    "name": "FIRESTARTERS Wiki",
+    "shortName": "FIRESTARTERS",
+    "tagline": "Rocket-Skate Combat, Weapons & Arena Guides",
+    "description": "Independent FIRESTARTERS wiki covering rocket-skate movement, six weapons, arena combat, Episode One, arcade scoring, and Early Access updates for the PC arena FPS.",
+    "legalNotice": "Unofficial fan wiki. Not affiliated with Studio Kerosene or Steam."
   },
   "nav": {
-    "races": "Races",
-    "bosses": "Bosses",
-    "guides": "Guides",
-    "codes": "Codes",
-    "tierList": "Tier List",
-    "maps": "Maps",
-    "skills": "Skills",
-    "updates": "Updates",
+    "guide": "Guides",
+    "mechanics": "Mechanics",
+    "modes": "Modes",
+    "characters": "Story",
+    "platforms": "Platforms",
+    "community": "Community",
+    "media": "Media",
     "home": "Home",
     "menu": "Menu",
-    "toggleTheme": "Toggle theme",
-    "guide": "Guides",
-    "seafood": "Seafood & Recipes",
-    "upgrades": "Upgrades",
-    "gamepasses": "Gamepasses",
-    "community": "Community"
+    "toggleTheme": "Toggle theme"
   },
   "home": {
     "meta": {
-      "title": "My Seafood Stand Wiki — Codes, Recipes, Upgrades & Guides",
-      "description": "Complete My Seafood Stand guide on Roblox with active working codes, all fish & recipes, best upgrades tier list, and fast cash tips."
+      "title": "FIRESTARTERS Wiki - Weapons, Movement & Episode One Guides",
+      "description": "Master FIRESTARTERS with rocket-skate movement tips, six weapon roles, arena combat strategies, Episode One story coverage, and Early Access updates."
     },
     "hero": {
-      "eyebrow": "Fan-Made Community Wiki",
-      "title": "My Seafood Stand",
-      "description": "Master your restaurant in My Seafood Stand on Roblox. Access all active codes, complete fish & recipe catalog, optimal upgrades, and pro money-making strategies.",
+      "eyebrow": "Cyberpunk Arena FPS",
+      "title": "FIRESTARTERS Wiki",
+      "description": "A focused guide hub for Studio Kerosene's rocket-skate arena shooter. Learn the movement loop, weapon roles, enemy pressure, Episode One structure, and Arcade Mode scoring using verified Early Access information.",
       "stats": [
-        "All Codes",
-        "All Fish & Recipes",
-        "Upgrade Guides",
-        "Fast Cash Tips"
+        "Six Weapons",
+        "Rocket-Skate Movement",
+        "Episode 1 of 4",
+        "PC / Steam"
       ],
       "primaryCta": "Beginner Guide",
-      "secondaryCta": "Seafood Tier List",
-      "tertiaryCta": "Active Codes",
-      "videoLabel": "Official media"
+      "secondaryCta": "Movement & Controls",
+      "tertiaryCta": "View on Steam",
+      "videoLabel": "Official Episode One trailer"
     },
     "updates": {
-      "title": "Latest Updates",
+      "title": "Latest FIRESTARTERS Guides",
       "browse": "Browse All Guides",
       "viewAll": "View All"
     },
     "start": {
       "eyebrow": "Start Here",
-      "title": "Your My Seafood Stand Journey",
+      "title": "Your FIRESTARTERS Journey",
       "cards": [
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Learn the Story Mode loop, arena objectives, health and ammunition pressure, and the first habits that keep a run alive."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Rocket-Skate Movement",
+          "description": "Understand skating, sliding, grinding, ground pounding, and the control rhythm that separates clean movement from a stalled fight."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Six Weapons",
+          "description": "Compare the six-weapon loadout by range, crowd control, and burst damage, then choose a plan for each arena."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in My Seafood Stand."
+          "title": "Episode One",
+          "description": "Follow the Early Access story structure, Kera's role, and the arenas that make up the first of four planned episodes."
         }
       ]
     },
     "popular": {
       "eyebrow": "Popular Pages",
-      "title": "Trending Now",
+      "title": "Trending FIRESTARTERS Guides",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Beginner Guide",
+        "Movement",
+        "Combat",
+        "Episode One",
+        "Updates"
       ],
       "cards": [
         {
           "badge": "Beginner",
-          "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "title": "FIRESTARTERS Beginner Guide",
+          "description": "The essential first-run plan for movement, shooting, survival, and Story Mode progression.",
+          "href": "/guide/firestarters-beginner-guide"
+        },
+        {
+          "badge": "Core",
+          "title": "Movement and Controls",
+          "description": "Build a reliable rocket-skate rhythm and connect mobility with accurate firing.",
+          "href": "/mechanics/firestarters-controls"
+        },
+        {
+          "badge": "Combat",
+          "title": "Arena Combat Strategy",
+          "description": "Prioritize android threats, preserve momentum, and recover resources without giving up space.",
+          "href": "/mechanics/firestarters-combat"
+        },
+        {
+          "badge": "Story",
+          "title": "Kera and Episode One",
+          "description": "Understand the protagonist, the Firestarters, and the first chapter of the planned four-episode story.",
+          "href": "/characters/firestarters-story"
+        },
+        {
+          "badge": "Modes",
+          "title": "Story and Arcade Modes",
+          "description": "See how Story Mode encounters connect to Arcade Mode replay and leaderboard chasing.",
+          "href": "/modes/firestarters-game-modes"
+        },
+        {
+          "badge": "PC",
+          "title": "System Requirements",
+          "description": "Check the verified Windows and Steam requirements before installing the Early Access build.",
+          "href": "/platforms/firestarters-system-requirements"
         },
         {
           "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "title": "Early Access Updates",
+          "description": "Follow the launch build, patch notes, and confirmed changes without relying on unverified rumors.",
+          "href": "/community/firestarters-updates"
         },
         {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
-        },
-        {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
-        },
-        {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
-        },
-        {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
-        },
-        {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
-        },
-        {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "badge": "Media",
+          "title": "Official Trailers",
+          "description": "Watch the official Studio Kerosene videos and understand what each trailer actually shows.",
+          "href": "/media/firestarters-official-trailer"
         }
       ]
     },
     "aboutGame": {
-      "title": "What is My Seafood Stand?",
+      "title": "What is FIRESTARTERS?",
       "paragraphs": [
-        "My Seafood Stand is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "FIRESTARTERS is a single-player cyberpunk arena FPS from Studio Kerosene. Players control Kera, combining rocket-skate movement with shooting and melee pressure against android enemies in the STEEL arenas. The Early Access release arrived on Steam on October 28, 2026.",
+        "The game is built around momentum rather than cover shooting. Skating, sliding, grinding, and aerial attacks keep the player moving while a six-weapon loadout handles different enemy groups. Episode One is the first of four planned story episodes, and Arcade Mode extends completed encounters with score chasing."
       ],
+      "cta": "Read the Beginner Guide",
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "Studio Kerosene"
+        },
+        {
+          "label": "Publisher",
+          "value": "Studio Kerosene"
         },
         {
           "label": "Platform",
-          "value": "Roblox"
+          "value": "PC / Steam"
+        },
+        {
+          "label": "Release",
+          "value": "Oct 28, 2026"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Arena FPS"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
-        },
-        {
-          "label": "Favorites",
-          "value": "243K+"
-        },
-        {
-          "label": "Total Skills",
-          "value": "130+"
-        },
-        {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Story",
+          "value": "Episode 1 of 4"
         }
-      ],
-      "cta": "Explore All Guides"
+      ]
     },
     "explore": {
-      "title": "Explore My Seafood Stand Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "title": "Explore the FIRESTARTERS Wiki",
+      "description": "Eight focused entry points cover the verified movement, combat, story, mode, platform, and update questions players ask during Early Access.",
+      "readMore": "Read Full Guide",
       "modules": [
         {
           "order": 1,
-          "name": "My Seafood Stand Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/my-seafood-stand-codes",
-          "displayType": "code-box",
+          "name": "FIRESTARTERS Beginner Guide",
+          "description": "Start with the core gameplay loop, Story Mode structure, combat fundamentals, resource pressure, and practical survival habits.",
+          "href": "/guide/firestarters-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "1",
+              "detail": "Learn the rocket-skate rhythm before increasing combat speed."
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "2",
+              "detail": "Use the six-weapon loadout deliberately instead of treating every weapon as interchangeable."
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "3",
+              "detail": "Track health and ammunition pressure while moving between arena threats."
+            },
+            {
+              "label": "4",
+              "detail": "Complete Episode One encounters to unlock replay-focused Arcade Mode play."
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/my-seafood-stand-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "FIRESTARTERS Movement and Controls",
+          "description": "Learn how skating, sliding, grinding, ground pounding, and aerial mobility combine with shooting in the STEEL arenas.",
+          "href": "/mechanics/firestarters-controls",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "1",
+              "detail": "Set a stable mouse sensitivity before practicing fast turns."
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "2",
+              "detail": "Chain skate momentum into slides rather than stopping to aim."
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "3",
+              "detail": "Use grinding lines and aerial routes to change angle on enemies."
+            },
+            {
+              "label": "4",
+              "detail": "Reserve ground pound for committed vertical attacks and crowd pressure."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/my-seafood-stand-tier-list",
-          "displayType": "tier-grid",
+          "name": "FIRESTARTERS Weapons and Combat Roles",
+          "description": "Compare the six available weapons by range, burst, crowd control, and the enemy situations where each role earns its slot.",
+          "href": "/mechanics/firestarters-game-mechanics",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "Loadout",
+              "detail": "Six weapons create separate answers for range, pressure, and area control."
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "Ammo",
+              "detail": "Arena combat does not provide conventional ammunition pickups, so accuracy matters."
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
-            },
-            {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "Momentum",
+              "detail": "Weapon choice should support movement instead of forcing a stationary duel."
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/my-seafood-stand-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "FIRESTARTERS Combat Strategy",
+          "description": "Prioritize android threats, preserve movement space, and recover resources without surrendering the arena initiative.",
+          "href": "/mechanics/firestarters-combat",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "S",
+              "detail": "Immediate threats that collapse your movement space or punish a stalled route."
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "A",
+              "detail": "Priority targets that become harder once several enemies overlap."
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "B",
+              "detail": "Pressure enemies best cleared while maintaining a safe exit lane."
+            },
+            {
+              "label": "C",
+              "detail": "Lower-priority targets that can wait until the dangerous group is controlled."
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/my-seafood-stand-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "FIRESTARTERS Story Walkthrough",
+          "description": "Follow Kera and the Firestarters through Episode One, organizing Story Mode progression by arena and narrative objective.",
+          "href": "/characters/firestarters-story",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "1",
+              "detail": "Establish Kera's role and the Firestarters' conflict in the opening chapter."
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "2",
+              "detail": "Treat each Storm as a progression checkpoint with its own arena demands."
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "3",
+              "detail": "Separate confirmed Episode One events from the four-episode development plan."
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/my-seafood-stand-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "FIRESTARTERS Arcade Mode and Scores",
+          "description": "Understand how completed Story Mode encounters feed into Arcade Mode replay, scoring, and Steam leaderboard competition.",
+          "href": "/modes/firestarters-game-modes",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Replay",
+              "detail": "Return to completed encounters with a score-focused plan."
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Routing",
+              "detail": "Clean movement and target order protect score momentum."
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Boards",
+              "detail": "Steam leaderboards turn repeat runs into direct score comparisons."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "FIRESTARTERS Early Access Updates",
+          "description": "Track the launch build, verified patch notes, and confirmed Early Access changes without inventing future content.",
+          "href": "/community/firestarters-updates",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "LAUNCH",
+              "detail": "Early Access release arrived on October 28, 2026."
+            },
+            {
+              "label": "EPISODE 1",
+              "detail": "The first story chapter is available now."
+            },
+            {
+              "label": "PATCHES",
+              "detail": "Only changes documented in official Steam news are treated as confirmed."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "FIRESTARTERS System Requirements and Settings",
+          "description": "Check the verified Windows requirements and available Steam settings before installing the Early Access build.",
+          "href": "/platforms/firestarters-system-requirements",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Windows",
+              "detail": "The Early Access release lists Windows as its supported platform."
+            },
+            {
+              "label": "Steam",
+              "detail": "Installation and updates are handled through the Steam client."
+            },
+            {
+              "label": "Settings",
+              "detail": "Custom volume, stereo sound, and accessibility-related options are listed on Steam."
             }
           ]
         }
       ]
     },
     "faq": {
-      "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about My Seafood Stand.",
+      "title": "FIRESTARTERS FAQ",
+      "description": "Quick answers to common questions about the Early Access release, platforms, story, and movement systems.",
       "items": [
         {
-          "question": "What is My Seafood Stand?",
-          "answer": "My Seafood Stand is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "question": "What is FIRESTARTERS?",
+          "answer": "FIRESTARTERS is a single-player cyberpunk arena FPS from Studio Kerosene. It combines rocket-skate movement, shooting, melee attacks, android enemies, and a story-driven campaign across planned episodes."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "Which platforms can play FIRESTARTERS?",
+          "answer": "The Early Access release is listed for Windows PC on Steam. The available store data does not list macOS or Linux support."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "How much story content is available?",
+          "answer": "Early Access launched with Episode One. Studio Kerosene's plan describes four episodes in total, but the later episodes are not presented as already released."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "How many weapons are in FIRESTARTERS?",
+          "answer": "The store description lists six weapons. Their exact unlock order and balance can change during Early Access, so verify current behavior in the build you are playing."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "What is Arcade Mode in FIRESTARTERS?",
+          "answer": "Arcade Mode lets players revisit completed Story Mode Storms for score runs. Steam leaderboards support competition against friends and other players."
         }
       ]
     },
     "finalCta": {
-      "title": "Ready to Master My Seafood Stand?",
-      "description": "From your first steps in Fort Adams to endgame boss fights our community wiki has you covered with free, up-to-date guides.",
+      "title": "Ready to Master FIRESTARTERS?",
+      "description": "Start with movement and survival, then build toward faster routes, cleaner weapon choices, and stronger Episode One and Arcade Mode runs.",
       "primary": "Read the Beginner Guide",
-      "secondary": "Play on Roblox"
+      "secondary": "View on Steam"
     }
-  },
-  "bosses": {
-    "meta": {
-      "title": "Bosses — Complete Guide & Walkthrough | My Seafood Stand Wiki",
-      "description": "Complete boss guides for My Seafood Stand — all bosses from tutorial Gelum to endgame encounters with strategies, drops, and respawn timers."
-    },
-    "overviewTitle": "Bosses Overview",
-    "overviewDescription": "Complete guides for every boss encounter in My Seafood Stand 13 bosses from the tutorial knight Gelum to endgame encounters like the Gelid Dweller and Gauntlet challenges.",
-    "body": "Bosses in My Seafood Stand serve as skill gates and progression milestones. Some, like Gelum, teach you the combat fundamentals during the tutorial. Others, such as the Shikai Spirit and Resurreccion Spirit, are inner-world encounters tied directly to your race's power unlock. Area bosses like Dragonfly, King Croc, and Securis guard access to new zones and rewards. Recent additions include the Rogue Commander with his Minions, the ice-themed The Everfrosted, and four brand new endgame bosses: The Gelid Dweller, Cinder of the Broken Sky, Devourer of Hosts, and the Wandering Swordsman (Junichiro). Each boss has distinct attack patterns and telegraphed moves you need to learn. Use the guides below to prepare for every fight.",
-    "guidesTitle": "Bosses Guides",
-    "readMore": "Read more",
-    "new": "New",
-    "popular": "Popular"
   },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
-    "activeCodes": "Active Codes",
     "updated": "Updated",
-    "viewAllCodes": "View all codes",
-    "playOnRoblox": "Play on Roblox",
     "inThisSection": "In this section",
     "tableOfContents": "Table of Contents",
     "nextSteps": "Next Steps",
@@ -379,21 +399,21 @@
     "noGuidesAvailable": "No guides available yet. Check back soon!"
   },
   "footer": {
-    "aboutTitle": "My Seafood Stand Wiki",
-    "about": "My Seafood Stand Wiki is an independent fan-built guide hub covering progression routes, races, bosses, builds, and essential game knowledge for new and veteran players alike.",
+    "aboutTitle": "FIRESTARTERS Wiki",
+    "about": "FIRESTARTERS Wiki is an independent guide hub covering rocket-skate movement, weapons, arena combat, Episode One, Arcade Mode, and confirmed Early Access updates for Studio Kerosene's PC arena FPS.",
     "quickLinks": "Quick Links",
     "guides": "Guides",
     "legal": "Legal",
-    "copyright": "2026 My Seafood Stand Wiki. Not affiliated with Midnight Continent or Roblox.",
-    "description": "Free Bleach-inspired fighting RPG on Roblox. 3 races, 130+ skills, Lv100 cap.",
-    "playGame": "Play My Seafood Stand",
-    "officialDiscord": "Official Discord",
-    "officialYoutube": "Official YouTube",
-    "vvBuilder": "VV Builder (Skill Planner)",
+    "copyright": "2026 FIRESTARTERS Wiki. Not affiliated with Studio Kerosene or Steam.",
+    "description": "Independent guides for the cyberpunk rocket-skate arena FPS on PC and Steam.",
+    "playGame": "View FIRESTARTERS on Steam",
+    "officialDiscord": "Steam Community",
+    "officialYoutube": "Studio Kerosene on YouTube",
+    "vvBuilder": "Weapon Guide",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
+    "raceGuides": "Movement & Controls",
+    "bossGuides": "Arena Combat",
+    "buildGuide": "Story & Episode One",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   }

@@ -1,486 +1,419 @@
 {
   "site": {
-    "name": "VV: ULTIMATUM",
-    "shortName": "VV Ultimatum",
-    "tagline": "ファンメイド コミュニティ Wiki",
-    "description": "Roblox『VV: ULTIMATUM』の完全攻略Wiki。死神・滅却師・虚の3つの種族を極めるためのガイド、ボス攻略、ビルド最適化、最新コード情報。",
-    "legalNotice": "非公式ファンWiki。プレイヤーによる、プレイヤーのための攻略サイト。"
+    "name": "FIRESTARTERS Wiki",
+    "shortName": "FIRESTARTERS",
+    "tagline": "ロケットスケート戦闘、武器、アリーナガイド",
+    "description": "PCアリーナFPS向けの、ロケットスケート移動、6つの武器、アリーナ戦闘、Episode One、アーケードスコアリング、早期アクセスアップデートを扱う独立したFIRESTARTERSウィキ。",
+    "legalNotice": "非公式のファンウィキです。Studio Kerosene および Steam とは提携していません。"
   },
   "nav": {
-    "races": "種族",
-    "bosses": "ボス",
-    "guides": "ガイド",
-    "codes": "コード",
-    "tierList": "Tier List",
-    "maps": "マップ",
-    "skills": "スキル",
-    "updates": "アップデート",
+    "guide": "ガイド",
+    "mechanics": "メカニクス",
+    "modes": "モード",
+    "characters": "ストーリー",
+    "platforms": "プラットフォーム",
+    "community": "コミュニティ",
+    "media": "メディア",
     "home": "ホーム",
     "menu": "メニュー",
-    "toggleTheme": "テーマ切替"
+    "toggleTheme": "テーマを切り替える"
   },
   "home": {
     "meta": {
-      "title": "VV: ULTIMATUM — コード・ビルド・ガイド | VV Ultimatum Wiki",
-      "description": "VV: ULTIMATUM の完全攻略Wiki。有効なコード、ボス攻略、種族ガイド、ビルド最適化、死神・滅却師・虚の進行ウォークスルー。"
+      "title": "FIRESTARTERS Wiki - 武器、移動、Episode One ガイド",
+      "description": "ロケットスケート移動のコツ、6つの武器の役割、アリーナ戦闘戦略、Episode Oneのストーリー解説、早期アクセスアップデートでFIRESTARTERSをマスターしましょう。"
     },
     "hero": {
-      "eyebrow": "ファンメイド コミュニティ Wiki",
-      "title": "VV: ULTIMATUM",
-      "description": "Roblox『VV: ULTIMATUM』の完全攻略Wiki。死神・滅却師・虚の3つの種族を極めるためのガイド、ボス攻略、ビルド最適化、最新コード情報を網羅。",
+      "eyebrow": "サイバーパンク・アリーナFPS",
+      "title": "FIRESTARTERS Wiki",
+      "description": "Studio Kerosene のロケットスケート・アリーナシューターに焦点を当てたガイドハブです。検証済みの早期アクセス情報を用いて、移動ループ、武器の役割、敵からの圧力、Episode One の構造、アーケードモードのスコアリングを学べます。",
       "stats": [
-        "6月5日配信",
-        "6月12日更新",
-        "3種族",
-        "Lv100上限",
-        "130+スキル"
+        "6つの武器",
+        "ロケットスケート移動",
+        "全4エピソード中のEpisode 1",
+        "PC / Steam"
       ],
-      "primaryCta": "初心者ガイドを見る",
-      "secondaryCta": "種族を比較する",
-      "tertiaryCta": "有効なコードを確認",
-      "videoLabel": "公式メディア"
+      "primaryCta": "初心者ガイド",
+      "secondaryCta": "移動と操作",
+      "tertiaryCta": "Steamで見る",
+      "videoLabel": "公式Episode Oneトレーラー"
     },
     "updates": {
-      "title": "最新更新",
-      "browse": "全ガイド一覧",
-      "viewAll": "すべて見る"
+      "title": "最新のFIRESTARTERSガイド",
+      "browse": "すべてのガイドを見る",
+      "viewAll": "すべて表示"
     },
     "start": {
       "eyebrow": "ここから始める",
-      "title": "VV Ultimatum の旅立ち",
+      "title": "あなたのFIRESTARTERSの旅",
       "cards": [
         {
           "number": "1",
           "title": "初心者ガイド",
-          "description": "操作方法・戦闘・序盤の進行を網羅した完全初心者ガイドで、1日目から霊界を制覇。"
+          "description": "ストーリーモードのループ、アリーナの目標、体力と弾薬の圧力、そしてランを生き延びさせる最初の習慣を学びます。"
         },
         {
           "number": "2",
-          "title": "最速レベル上げ",
-          "description": "最も効率的なレベルアップルートと戦略で、序盤を圧倒的に有利に進める。"
+          "title": "ロケットスケート移動",
+          "description": "スケート、スライド、グラインド、グラウンドパウンド、そしてクリーンな移動と停滞した戦闘を分ける操作リズムを理解します。"
         },
         {
           "number": "3",
-          "title": "最佳素材集めスポット",
-          "description": "各段階に最適な素材集め場所で、魂の結晶とEXPを最大化。"
+          "title": "6つの武器",
+          "description": "6つの武器のロードアウトを射程、群衆制御、バーストダメージで比較し、各アリーナの計画を選びます。"
         },
         {
           "number": "4",
-          "title": "抽出方法",
-          "description": "VV Ultimatum で資源を抽出する最適な方法と場所を解説。"
+          "title": "Episode One",
+          "description": "早期アクセスのストーリー構造、Keraの役割、そして計画された4エピソードのうち最初のエピソードを構成するアリーナを追います。"
         }
       ]
     },
     "popular": {
       "eyebrow": "人気ページ",
-      "title": "トレンド",
+      "title": "話題のFIRESTARTERSガイド",
       "quickLinks": [
-        "虚 進行ガイド",
-        "最速レベル上げ",
-        "霊のお守り",
-        "全ボス攻略"
+        "初心者ガイド",
+        "移動",
+        "戦闘",
+        "Episode One",
+        "アップデート"
       ],
       "cards": [
         {
           "badge": "初心者",
-          "title": "初心者ガイド",
-          "description": "初回ログインから戦闘と進行の基本をマスターするまで、必要な情報をすべて解説。",
-          "href": "/beginner-guide"
+          "title": "FIRESTARTERS 初心者ガイド",
+          "description": "移動、射撃、生存、ストーリーモード進行のための最初のランに必須の計画。",
+          "href": "/guide/firestarters-beginner-guide"
         },
         {
-          "badge": "更新",
-          "title": "有効なコード",
-          "description": "期限切れ前に報酬を受け取れる、現在有効な全コード一覧。",
-          "href": "/codes"
+          "badge": "基本",
+          "title": "移動と操作",
+          "description": "信頼できるロケットスケートのリズムを築き、機動性と正確な射撃を結びつけます。",
+          "href": "/mechanics/firestarters-controls"
         },
         {
-          "badge": "更新",
-          "title": "装備データベース",
-          "description": "5スロット94アイテムの完全装備データベース。ステータス・レアリティ・入手方法付き。",
-          "href": "/equipment"
+          "badge": "戦闘",
+          "title": "アリーナ戦闘戦略",
+          "description": "アンドロイドの脅威を優先し、勢いを維持し、スペースを譲らずにリソースを回復します。",
+          "href": "/mechanics/firestarters-combat"
         },
         {
-          "badge": "人気",
-          "title": "どの種族を選ぶべき？",
-          "description": "死神・滅却師・虚の3種族を比較し、自分に合ったプレイスタイルを見つけよう。",
-          "href": "/races/best-race"
+          "badge": "ストーリー",
+          "title": "KeraとEpisode One",
+          "description": "主人公、Firestarters、そして計画された4エピソードのストーリーの最初の章を理解します。",
+          "href": "/characters/firestarters-story"
         },
         {
-          "badge": "新着",
-          "title": "敵・モンスター一覧",
-          "description": "5地域に生息する23種の敵。ドロップ・出現場所・素材集めのコツ。",
-          "href": "/enemies"
+          "badge": "モード",
+          "title": "ストーリーとアーケードモード",
+          "description": "ストーリーモードの遭遇がアーケードモードのリプレイやリーダーボード追跡とどうつながるかを確認します。",
+          "href": "/modes/firestarters-game-modes"
         },
         {
-          "badge": "人気",
-          "title": "ボスの場所とドロップ",
-          "description": "全ボスの出現場所、ドロップテーブル、リスポーンタイマーを一覧化。",
-          "href": "/boss-locations-drops-respawn-times"
+          "badge": "PC",
+          "title": "システム要件",
+          "description": "早期アクセス版をインストールする前に、検証済みのWindowsおよびSteam要件を確認してください。",
+          "href": "/platforms/firestarters-system-requirements"
         },
         {
-          "badge": "人気",
-          "title": "ベストビルド",
-          "description": "全プレイスタイルに最適なステータス配分、スキルツリー、お守りコンボ。",
-          "href": "/builds/best-builds"
+          "badge": "更新済み",
+          "title": "早期アクセスアップデート",
+          "description": "未確認の噂に頼らず、ローンチビルド、パッチノート、確認済みの変更を追います。",
+          "href": "/community/firestarters-updates"
         },
         {
-          "badge": "新着",
-          "title": "始解 Tier List",
-          "description": "死神の6種の始解をPvP・PvE性能でランキング。",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "新着",
-          "title": "ワールドイベントガイド",
-          "description": "補給物資、レイド、レア報酬のエンドゲームワールドイベント。",
-          "href": "/world-events"
+          "badge": "メディア",
+          "title": "公式トレーラー",
+          "description": "Studio Keroseneの公式動画を見て、各トレーラーが実際に何を示しているかを理解します。",
+          "href": "/media/firestarters-official-trailer"
         }
       ]
     },
     "aboutGame": {
-      "title": "VV: ULTIMATUM とは？",
+      "title": "FIRESTARTERSとは？",
       "paragraphs": [
-        "VV: ULTIMATUM は Bleach アニメをモチーフにした Roblox のスタイリッシュ格闘 RPG です。死神・滅却師・虚の3つのプレイアブル種族から選択でき、それぞれ独自の進行システム、解放可能な能力、進化ルートを備えています。130以上のスキルをマスターし、レベル100の上限を目指して戦い抜こう。",
-        "始めての始解の解放、基礎虚からアランカルへの進化、滅却師の副隊長ミッションの周回など、当Wikiは全システムを詳細なガイド、データテーブル、ステップバイステップのウォークスルーで解説しています。"
+        "FIRESTARTERSはStudio Keroseneによるシングルプレイヤーのサイバーパンク・アリーナFPSです。プレイヤーはKeraを操作し、ロケットスケート移動と射撃、近接攻撃による圧力を組み合わせて、STEELアリーナでアンドロイドの敵と戦います。早期アクセス版は2026年10月28日にSteamで登場しました。",
+        "このゲームはカバー射撃よりも勢いを中心に構築されています。スケート、スライド、グラインド、空中攻撃によってプレイヤーは動き続け、6つの武器のロードアウトがさまざまな敵グループに対応します。Episode Oneは計画された4つのストーリーエピソードの最初であり、アーケードモードは完了した遭遇をスコア追跡で拡張します。"
       ],
+      "cta": "初心者ガイドを読む",
       "stats": [
         {
           "label": "開発元",
-          "value": "Midnight Continent"
+          "value": "Studio Kerosene"
+        },
+        {
+          "label": "販売元",
+          "value": "Studio Kerosene"
         },
         {
           "label": "プラットフォーム",
-          "value": "Roblox"
+          "value": "PC / Steam"
+        },
+        {
+          "label": "リリース",
+          "value": "2026年10月28日"
         },
         {
           "label": "ジャンル",
-          "value": "格闘 RPG"
+          "value": "アリーナFPS"
         },
         {
-          "label": "訪問数",
-          "value": "12.6M+"
-        },
-        {
-          "label": "お気に入り",
-          "value": "243K+"
-        },
-        {
-          "label": "全スキル数",
-          "value": "130+"
-        },
-        {
-          "label": "レベル上限",
-          "value": "100"
+          "label": "ストーリー",
+          "value": "全4エピソード中のEpisode 1"
         }
-      ],
-      "cta": "全ガイドを見る"
+      ]
     },
     "explore": {
-      "title": "VV Ultimatum ホームページモジュールナビゲーション",
-      "description": "8つのホームページセクションから必要な情報にすぐアクセス。",
+      "title": "FIRESTARTERS Wikiを探索する",
+      "description": "8つの焦点を絞った入口が、早期アクセス中にプレイヤーが尋ねる検証済みの移動、戦闘、ストーリー、モード、プラットフォーム、アップデートの疑問をカバーします。",
+      "readMore": "完全ガイドを読む",
       "modules": [
         {
           "order": 1,
-          "name": "VV Ultimatum コード",
-          "description": "リロールを消費する前にコードを引き換えて、より柔軟に種族ビルドを試せるようにしましょう。",
-          "href": "/codes",
-          "displayType": "code-cards",
+          "name": "FIRESTARTERS 初心者ガイド",
+          "description": "コアゲームプレイループ、ストーリーモード構造、戦闘の基本、リソースの圧力、実践的な生存習慣から始めます。",
+          "href": "/guide/firestarters-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "day1",
-              "detail": "3× クランリロール + トークンブースター + 集中の霊薬",
-              "badge": "有効"
+              "label": "1",
+              "detail": "戦闘速度を上げる前にロケットスケートのリズムを学びます。"
+            },
+            {
+              "label": "2",
+              "detail": "すべての武器を交換可能として扱うのではなく、6つの武器のロードアウトを意図的に使います。"
+            },
+            {
+              "label": "3",
+              "detail": "アリーナの脅威の間を移動しながら、体力と弾薬の圧力を把握します。"
+            },
+            {
+              "label": "4",
+              "detail": "Episode Oneの遭遇を完了して、リプレイ重視のアーケードモードプレイを解除します。"
             }
           ]
         },
         {
           "order": 2,
-          "name": "VV Ultimatum 初心者ガイド",
-          "description": "最初の1時間で種族ルートを決定し、操作を覚え、ランダムなリロールで資源を無駄にせずにクエストを進めよう。",
-          "href": "/guide/vv-ultimatum-beginner-guide-2026",
+          "name": "FIRESTARTERS 移動と操作",
+          "description": "STEELアリーナで、スケート、スライド、グラインド、グラウンドパウンド、空中機動が射撃とどう組み合わさるかを学びます。",
+          "href": "/mechanics/firestarters-controls",
           "displayType": "step-by-step",
           "highlights": [
             {
               "label": "1",
-              "detail": "リロールを使う前に種族ルートを決める"
+              "detail": "速い旋回を練習する前に安定したマウス感度を設定します。"
             },
             {
               "label": "2",
-              "detail": "オープニングパスをクリアして操作を覚える"
+              "detail": "止まって狙うのではなく、スケートの勢いをスライドにつなげます。"
             },
             {
               "label": "3",
-              "detail": "ショップが解放されたらコードを引き換える"
+              "detail": "グラインドラインと空中ルートを使って敵への角度を変えます。"
             },
             {
               "label": "4",
-              "detail": "サブコンテンツよりストーリークエストを優先"
-            },
-            {
-              "label": "5",
-              "detail": "ミッションシステムが解放されたらすぐに始める"
-            },
-            {
-              "label": "6",
-              "detail": "初期ポイントは1つのダメージプランに集中させる"
+              "detail": "グラウンドパウンドは、本格的な垂直攻撃と群衆への圧力のために取っておきます。"
             }
           ]
         },
         {
           "order": 3,
-          "name": "VV Ultimatum 公式リンク",
-          "description": "ゲームページ、コミュニティチャンネル、公式動画フィードなど、ブックマークすべき公式リンク先。",
-          "href": "/codes",
+          "name": "FIRESTARTERS 武器と戦闘の役割",
+          "description": "利用可能な6つの武器を射程、バースト、群衆制御、そして各役割が枠を得る敵の状況で比較します。",
+          "href": "/mechanics/firestarters-game-mechanics",
           "displayType": "card-list",
           "highlights": [
             {
-              "label": "🎮",
-              "detail": "Roblox で VV: ULTIMATUM をプレイ"
+              "label": "ロードアウト",
+              "detail": "6つの武器が射程、圧力、エリア制御に対する別々の答えを生み出します。"
             },
             {
-              "label": "💬",
-              "detail": "公式 Discord サーバー"
+              "label": "弾薬",
+              "detail": "アリーナ戦闘では従来の弾薬ピックアップが提供されないため、精度が重要です。"
             },
             {
-              "label": "📺",
-              "detail": "公式 YouTube チャンネル"
-            },
-            {
-              "label": "🐦",
-              "detail": "X の VV Ultimatum"
-            },
-            {
-              "label": "🎵",
-              "detail": "TikTok の VV Ultimatum"
-            },
-            {
-              "label": "👥",
-              "detail": "Roblox コミュニティグループ"
+              "label": "勢い",
+              "detail": "武器の選択は、静止した決闘を強いるのではなく、移動を支えるべきです。"
             }
           ]
         },
         {
           "order": 4,
-          "name": "VV Ultimatum クラン Tier List",
-          "description": "クランリロールは種族ルートを決定づける重要な資源。ベストキープは所属する種族によって異なります。",
-          "href": "/tier-list",
+          "name": "FIRESTARTERS 戦闘戦略",
+          "description": "アンドロイドの脅威を優先し、移動スペースを維持し、アリーナの主導権を明け渡さずにリソースを回復します。",
+          "href": "/mechanics/firestarters-combat",
           "displayType": "tier-grid",
           "highlights": [
             {
               "label": "S",
-              "detail": "Kurosaki · Shihoin · Cifer — 絶対キープ"
+              "detail": "移動スペースを崩したり、停滞したルートを罰したりする即時の脅威。"
             },
             {
               "label": "A",
-              "detail": "Eisenhauer · Ishida · Kamamura · Aaroniero — ビルドに合えばキープ"
+              "detail": "複数の敵が重なると難しくなる優先ターゲット。"
             },
             {
               "label": "B",
-              "detail": "Parnkgjas · Hitsugaya · Antenor — レベリングには十分"
+              "detail": "安全な退路を維持しながら処理するのが最適な、圧力をかけてくる敵。"
             },
             {
               "label": "C",
-              "detail": "Schulte · Madarame · Calius — 余裕があればリロール"
+              "detail": "危険なグループを制御するまで待てる優先度の低いターゲット。"
             }
           ]
         },
         {
           "order": 5,
-          "name": "VV Ultimatum スキルツリー Tier List",
-          "description": "ビルドは関連のないルートにポイントを分散させるより、明確な戦闘コアを選ぶ方が強くなります。",
-          "href": "/skills/vv-ultimatum-best-skills-ranked",
-          "displayType": "tier-grid",
+          "name": "FIRESTARTERS ストーリー攻略",
+          "description": "KeraとFirestartersをEpisode Oneを通して追い、ストーリーモードの進行をアリーナと物語の目標ごとに整理します。",
+          "href": "/characters/firestarters-story",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "S",
-              "detail": "白打（近接コンボ）· 瞬歩（機動力コア）"
+              "label": "1",
+              "detail": "冒頭の章でKeraの役割とFirestartersの葛藤を確立します。"
             },
             {
-              "label": "A",
-              "detail": "滅却師（弓圧）· 力（重撃）· 死神（鬼道制御）"
+              "label": "2",
+              "detail": "各Stormを、それぞれのアリーナ要件を持つ進行チェックポイントとして扱います。"
             },
             {
-              "label": "B",
-              "detail": "虚 / アランカル（虚閃バースト）"
-            },
-            {
-              "label": "Utility",
-              "detail": "感知（ターゲット読み）· その他（汎用戦闘ツール）"
+              "label": "3",
+              "detail": "確認済みのEpisode Oneの出来事と、4エピソードの開発計画を分けて考えます。"
             }
           ]
         },
         {
           "order": 6,
-          "name": "VV Ultimatum 武器 Tier List",
-          "description": "武器の選択は種族に紐付いています。滅却師は最も選択肢が多く、死神は斬魄刀の成長に注力します。",
-          "href": "/tier-list",
-          "displayType": "tier-grid",
+          "name": "FIRESTARTERS アーケードモードとスコア",
+          "description": "完了したストーリーモードの遭遇が、アーケードモードのリプレイ、スコアリング、Steamリーダーボード競争にどうつながるかを理解します。",
+          "href": "/modes/firestarters-game-modes",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "S",
-              "detail": "剣 — バランス型オールラウンダー、滅却師の最安全スターター"
+              "label": "リプレイ",
+              "detail": "スコア重視の計画で完了した遭遇に戻ります。"
             },
             {
-              "label": "A",
-              "detail": "槍（長リーチ）· ロングソード（安全な間合い）"
+              "label": "ルート",
+              "detail": "クリーンな移動とターゲット順序がスコアの勢いを守ります。"
             },
             {
-              "label": "B",
-              "detail": "大剣 · ハンマー · メイス — 重火力またはニッチ"
-            },
-            {
-              "label": "C",
-              "detail": "ライフル · レイピア — 使えるが上位互換あり"
+              "label": "ボード",
+              "detail": "Steamリーダーボードが繰り返しのランを直接のスコア比較に変えます。"
             }
           ]
         },
         {
           "order": 7,
-          "name": "VV Ultimatum 虚 進行ガイド",
-          "description": "虚の進行は忍耐が報われます。面具除去を急ぐと、最終ビルドが弱体化する可能性があります。",
-          "href": "/guide/VV-Ultimatum-bleach",
-          "displayType": "step-by-step",
+          "name": "FIRESTARTERS 早期アクセスアップデート",
+          "description": "将来のコンテンツをでっち上げずに、ローンチビルド、検証済みのパッチノート、確認済みの早期アクセス変更を追います。",
+          "href": "/community/firestarters-updates",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "1",
-              "detail": "虚のタイプを選択（ゴリラ・トカゲ・カメ・ムカデ）"
+              "label": "ローンチ",
+              "detail": "早期アクセス版は2026年10月28日に登場しました。"
             },
             {
-              "label": "2",
-              "detail": "虚を捕食し、適合する特性を収集"
+              "label": "エピソード1",
+              "detail": "最初のストーリーチャプターは現在利用可能です。"
             },
             {
-              "label": "3",
-              "detail": "基礎虚 → メノス → アジューカスへ進化"
-            },
-            {
-              "label": "4",
-              "detail": "ヴァストローデを目指して4特性スロットを解放"
-            },
-            {
-              "label": "5",
-              "detail": "面具を除去 → アランカルまたはヴァストカーへ"
-            },
-            {
-              "label": "6",
-              "detail": "瞑想し、レスレクシオン戦に勝利"
+              "label": "パッチ",
+              "detail": "公式Steamニュースに記載された変更のみを確認済みとして扱います。"
             }
           ]
         },
         {
           "order": 8,
-          "name": "VV Ultimatum 死神 進行ガイド",
-          "description": "死神ルートは安定したクエスト進行、ソウルポーターミッション、瞑想タイミング、そして始解戦を中心に構成されています。",
-          "href": "/races/vv-ultimatum-shinigami-guide",
-          "displayType": "step-by-step",
+          "name": "FIRESTARTERS システム要件と設定",
+          "description": "早期アクセス版をインストールする前に、検証済みのWindows要件と利用可能なSteam設定を確認してください。",
+          "href": "/platforms/firestarters-system-requirements",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "1",
-              "detail": "メインストーリークエストで進行ループを解放"
+              "label": "Windows",
+              "detail": "早期アクセス版はサポート対象プラットフォームとしてWindowsを挙げています。"
             },
             {
-              "label": "2",
-              "detail": "尸魂界を解放し、ソウルポーターを購入"
+              "label": "Steam",
+              "detail": "インストールとアップデートはSteamクライアントを通じて処理されます。"
             },
             {
-              "label": "3",
-              "detail": "Lv25に到達し、瞑想を開始"
-            },
-            {
-              "label": "4",
-              "detail": "霊の囁きに応答して始解EXPを獲得"
-            },
-            {
-              "label": "5",
-              "detail": "内世界で鈴のパズルを解く"
-            },
-            {
-              "label": "6",
-              "detail": "始解NPCと戦い、始解武器を解放"
+              "label": "設定",
+              "detail": "カスタム音量、ステレオサウンド、アクセシビリティ関連のオプションがSteamに記載されています。"
             }
           ]
         }
       ]
     },
     "faq": {
-      "title": "よくある質問",
-      "description": "VV: ULTIMATUM に関するよくある質問への簡潔な回答。",
+      "title": "FIRESTARTERS よくある質問",
+      "description": "早期アクセス版、プラットフォーム、ストーリー、移動システムに関するよくある質問への簡単な回答。",
       "items": [
         {
-          "question": "VV: ULTIMATUM とは何ですか？",
-          "answer": "VV: ULTIMATUM は Bleach アニメをベースにした Roblox の無料格闘 RPG です。死神（ソウルリーパー）・滅却師・虚の3種族から1つを選び、それぞれ独自の進行・戦闘能力・進化システムを持ちます。130以上のスキル、Lv100の上限、ボス戦、深いビルドカスタマイズが特徴です。"
+          "question": "FIRESTARTERSとは何ですか？",
+          "answer": "FIRESTARTERSはStudio Keroseneによるシングルプレイヤーのサイバーパンク・アリーナFPSです。ロケットスケート移動、射撃、近接攻撃、アンドロイドの敵、そして計画されたエピソードにまたがるストーリー主導のキャンペーンを組み合わせています。"
         },
         {
-          "question": "初心者はどの種族を選ぶべき？",
-          "answer": "死神は最も分かりやすい初心者向け種族です。虚と滅却師はより専門的な進行ルートを提供します。各能力を比較してから決定しましょう。"
+          "question": "FIRESTARTERSをプレイできるプラットフォームはどれですか？",
+          "answer": "早期アクセス版はSteamでWindows PC向けに記載されています。利用可能なストアデータにはmacOSやLinuxのサポートは記載されていません。"
         },
         {
-          "question": "現在のレベル上限は？",
-          "answer": "現在のレベル上限は100で、スキルツリーや種族進行システム全体で130以上のスキルが利用可能です。"
+          "question": "利用可能なストーリーコンテンツはどれくらいですか？",
+          "answer": "早期アクセスはEpisode Oneとともに開始されました。Studio Keroseneの計画では合計4つのエピソードが説明されていますが、後のエピソードはすでにリリース済みとしては示されていません。"
         },
         {
-          "question": "有効なコードはどこで確認できますか？",
-          "answer": "コードページで有効なコード、報酬、期限情報、引き換え手順を確認できます。"
+          "question": "FIRESTARTERSには武器がいくつありますか？",
+          "answer": "ストアの説明には6つの武器が記載されています。正確な解除順序とバランスは早期アクセス中に変わる可能性があるため、プレイ中のビルドで現在の挙動を確認してください。"
         },
         {
-          "question": "ボスガイドは更新されていますか？",
-          "answer": "ボスページには出現情報、攻撃パターン、攻略法、ドロップテーブル、進行の次ステップが整理されています。"
+          "question": "FIRESTARTERSのアーケードモードとは何ですか？",
+          "answer": "アーケードモードでは、完了したストーリーモードのStormをスコアランのために再訪できます。Steamリーダーボードは友人や他のプレイヤーとの競争を支えます。"
         }
       ]
     },
     "finalCta": {
-      "title": "VV: ULTIMATUM をマスターする準備はできましたか？",
-      "description": "Fort Adams での最初の一歩からエンドゲームのボス戦まで、コミュニティ Wiki が無料の最新ガイドでサポートします。",
+      "title": "FIRESTARTERSをマスターする準備はできましたか？",
+      "description": "移動と生存から始め、その後より速いルート、よりクリーンな武器選択、より強いEpisode Oneとアーケードモードのランへと進みましょう。",
       "primary": "初心者ガイドを読む",
-      "secondary": "Roblox でプレイ"
+      "secondary": "Steamで見る"
     }
   },
-  "bosses": {
-    "meta": {
-      "title": "ボス — 完全攻略ガイド | VV Ultimatum Wiki",
-      "description": "VV: ULTIMATUM の全ボス攻略ガイド。チュートリアルのGelumからエンドゲームコンテンツまで、攻略・ドロップ・リスポーン情報。"
-    },
-    "overviewTitle": "ボス一覧",
-    "overviewDescription": "VV: ULTIMATUM に登場する全ボスの攻略ガイド。チュートリアルのGelumからエンドゲームのGelid Dweller、Gauntletチャレンジまで。",
-    "guidesTitle": "ボス攻略ガイド",
-    "readMore": "続きを読む",
-    "new": "New",
-    "popular": "人気"
-  },
   "shared": {
-    "wikiNavigation": "Wiki ナビゲーション",
-    "activeCodes": "有効なコード",
-    "updated": "更新",
-    "viewAllCodes": "全コードを見る",
-    "playOnRoblox": "Robloxでプレイ",
-    "inThisSection": "目次",
+    "wikiNavigation": "Wikiナビゲーション",
+    "updated": "更新日",
+    "inThisSection": "このセクション内",
     "tableOfContents": "目次",
     "nextSteps": "次のステップ",
-    "needHelp": "お困りですか？",
+    "needHelp": "助けが必要ですか？",
     "relatedReading": "関連記事",
-    "officialMedia": "公式メディア",
     "relatedGuides": "関連ガイド",
     "readMore": "続きを読む",
-    "toggleToc": "目次を開く/閉じる",
+    "officialMedia": "公式メディア",
     "home": "ホーム",
-    "noGuidesAvailable": "ガイドはまだありません。お楽しみに！"
+    "noGuidesAvailable": "利用可能なガイドはまだありません。近日中に再度確認してください！"
   },
   "footer": {
-    "aboutTitle": "VV Ultimatum Wiki",
-    "about": "VV Ultimatum Wiki は、新規プレイヤーからベテランまで、進行ルート・種族・ボス・ビルドなど幅広いゲーム知識を網羅したファン制作の攻略サイトです。",
+    "aboutTitle": "FIRESTARTERS Wiki",
+    "about": "FIRESTARTERS Wikiは、Studio KeroseneのPCアリーナFPSについて、ロケットスケート移動、武器、アリーナ戦闘、Episode One、アーケードモード、確認済みの早期アクセスアップデートを扱う独立したガイドハブです。",
     "quickLinks": "クイックリンク",
     "guides": "ガイド",
-    "legal": "法務",
-    "copyright": "© 2026 VV: ULTIMATUM Wiki. Midnight Continent および Roblox とは無関係です。",
-    "description": "Roblox の無料 Bleach 系格闘 RPG。3種族、130以上のスキル、Lv100上限。",
-    "playGame": "VV: ULTIMATUM をプレイ",
-    "officialDiscord": "公式 Discord",
-    "officialYoutube": "公式 YouTube",
-    "vvBuilder": "VV Builder（スキルプランナー）",
+    "legal": "法的事項",
+    "copyright": "2026 FIRESTARTERS Wiki。Studio Kerosene および Steam とは提携していません。",
+    "description": "PCおよびSteam向けのサイバーパンク・ロケットスケート・アリーナFPSの独立ガイド。",
+    "playGame": "SteamでFIRESTARTERSを見る",
+    "officialDiscord": "Steamコミュニティ",
+    "officialYoutube": "YouTubeのStudio Kerosene",
+    "vvBuilder": "武器ガイド",
     "beginnerGuide": "初心者ガイド",
-    "raceGuides": "種族ガイド",
-    "bossGuides": "ボスガイド",
-    "buildGuide": "ビルドガイド",
+    "raceGuides": "移動と操作",
+    "bossGuides": "アリーナ戦闘",
+    "buildGuide": "ストーリーとEpisode One",
     "privacyPolicy": "プライバシーポリシー",
     "termsOfService": "利用規約"
   }

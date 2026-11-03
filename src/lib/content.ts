@@ -237,39 +237,52 @@ export interface NavGroup {
 
 // 分组标题映射：slug → 人类可读标题（默认英文）
 const GROUP_TITLES: Record<string, string> = {
-  bosses: "Bosses",
-  races: "Races",
-  maps: "Maps & Areas",
-  skills: "Skills",
-  codes: "Codes",
-  guide: "Getting Started",
-  "tier-list": "Tier Lists",
+  guide: "Guides",
+  mechanics: "Mechanics",
+  modes: "Modes",
+  characters: "Story",
+  platforms: "Platforms",
+  community: "Community",
+  media: "Media",
 };
 
 // 日文分组标题映射
 const GROUP_TITLES_JA: Record<string, string> = {
-  bosses: "ボス",
-  races: "種族",
-  maps: "マップ & エリア",
-  skills: "スキル",
-  codes: "コード",
-  guide: "初心者ガイド",
-  "tier-list": "Tier List",
+  guide: "ガイド",
+  mechanics: "メカニクス",
+  modes: "モード",
+  characters: "ストーリー",
+  platforms: "プラットフォーム",
+  community: "コミュニティ",
+  media: "メディア",
+};
+
+// 俄语分组标题映射
+const GROUP_TITLES_RU: Record<string, string> = {
+  guide: "Гайды",
+  mechanics: "Механики",
+  modes: "Режимы",
+  characters: "Сюжет",
+  platforms: "Платформы",
+  community: "Сообщество",
+  media: "Медиа",
 };
 
 // locale → 分组标题映射
 const GROUP_TITLES_BY_LOCALE: Record<string, Record<string, string>> = {
   ja: GROUP_TITLES_JA,
+  ru: GROUP_TITLES_RU,
 };
 
 // locale → "Overview" 翻译
 const OVERVIEW_LABEL_BY_LOCALE: Record<string, string> = {
   ja: "一覧",
+  ru: "Обзор",
 };
 
 // 分组排序顺序
 const GROUP_ORDER: string[] = [
-  "guide", "races", "bosses", "maps", "skills", "codes", "tier-list",
+  "guide", "mechanics", "modes", "characters", "platforms", "community", "media",
 ];
 
 /**

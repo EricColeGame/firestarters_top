@@ -1,0 +1,93 @@
+export const metadata = {
+  title: "FIRESTARTERS Updates: Early Access Patch Notes, Demo Delisting, and Fixes",
+  description: "A rundown of FIRESTARTERS updates: the demo delisting at Early Access launch, plus the October 28 and October 31, 2026 patch notes from Studio Kerosene.",
+  category: "community",
+  date: "2026-11-03",
+}
+
+## FIRESTARTERS Updates: The State of Play Right Now
+
+FIRESTARTERS entered Early Access with Episode One on October 28, 2026, and the first week of updates has focused almost entirely on stability rather than new content. If you are checking in on FIRESTARTERS updates after launch, the short version is this: the demo is no longer on the Steam Store, and two small patches — Build 0.2.2.1 and Build 0.2.2.7 — have already shipped to clear crash and input bugs.
+
+That matters because the demo that sat on Steam for months was explicitly described by the developer as no longer representing the quality of the Early Access release. Anyone who formed an opinion from that demo is working from an outdated build.
+
+## The Demo Is Delisted, and That Was Intentional
+
+In a notice published on October 27, 2026 — one day before launch — Studio Kerosene announced that the FIRESTARTERS Demo would be officially delisted from the Steam Store alongside the game's move into Early Access.
+
+The reasoning given was straightforward. The demo had been live on Steam "for some time" and had served its purpose, but it no longer matched the quality of the Early Access build. Rather than leave an unrepresentative slice of the game online, the studio pulled it at launch.
+
+A few practical takeaways:
+
+- If you had the demo wishlisted or bookmarked, expect that store page to be gone.
+- The Early Access release is now the only official way to play Episode One.
+- The studio framed the removal as a quality decision, not a content or availability issue.
+
+The announcement closed with a request that players look forward to the Episode One launch the following day.
+
+## Patch 0.2.2.1 (October 28): Language Crash and Ultrawide Text
+
+The first post-launch patch landed on launch day itself. Build 0.2.2.1 was a compact two-item fix list, both under bug fixes:
+
+- **Russian language crash.** Playing the game with the Russian language enabled could crash the client. That is now fixed.
+- **Ultrawide word wrapping.** Visual novel text wrapped improperly when playing at an "Ultrawide" resolution configuration. The patch corrects the wrapping behavior.
+
+Both items are the kind of localization and display-configuration problems that tend to surface the moment a build reaches a wider audience than a demo did. The studio's sign-off was brief: "Thanks and have fun!"
+
+Notably, there were no balance changes, no content additions, and no new features in this build — it reads as a launch-day cleanup pass.
+
+## Patch 0.2.2.7 (October 31): Audio Fallback and Keyboard Rebinding
+
+Three days later, on Halloween, Studio Kerosene shipped Build 0.2.2.7. This one is more interesting technically, because it changes behavior rather than just removing a crash path.
+
+**Audio device handling.** The patch fixes a startup crash that occurred when the Audio Engine could not initialize the default system device for playback. The fix goes further than a simple guard:
+
+- The system now attempts to initialize the other onboard devices if the default one fails.
+- If no device can be initialized at all, the game still starts — just without audio.
+- The studio says further improvements, such as allowing re-initialization attempts, are under consideration for the future.
+
+That last bullet is a design statement worth noting: a silent-but-playable launch is now the intended fallback, rather than a hard crash.
+
+**Input rebinding.** The patch also fixes a bug that could break input rebinding on certain keyboard configurations, with Japanese keyboards named specifically as an example.
+
+**Localization cleanup.** A few Japanese language strings were updated. The post closed with a plain "Happy Halloween! Studio Kerosene."
+
+## Early Access Builds Side by Side
+
+Only two builds have shipped since launch, and the table below reflects exactly what the patch notes list — nothing more.
+
+| Build | Date | Fixes Included |
+| --- | --- | --- |
+| 0.2.2.1 | October 28, 2026 | Russian language crash; Ultrawide visual novel text wrapping |
+| 0.2.2.7 | October 31, 2026 | Audio device initialization startup crash; input rebinding on certain keyboard layouts; Japanese string updates |
+
+Both were labeled "Small Update / Patch Notes" on the [official FIRESTARTERS Steam News Hub](https://store.steampowered.com/news/app/3733710), which is where future posts will appear first.
+
+## What the Demo-Era Patches Tell You About the Studio
+
+The demo's patch history is still visible on the news hub, and it is a useful signal for anyone weighing how actively the game will be maintained. Between February and March 2026, the demo received a steady drip of small builds:
+
+- **Build 0.1.12.30 (Feb 12, 2026):** a hotfix for erroneous graphics device selection.
+- **Build 0.1.13.5 (Feb 14, 2026):** input rebinds, New Game and Video settings, and improved bug reporting.
+- **Build 0.1.14.3 (Feb 15, 2026):** the Purchase Phase no longer ends automatically when the player cannot afford anything, a change aimed at reducing confusion.
+- **Build 0.1.14.13 (Feb 16, 2026):** a fix for certain GPUs crashing while loading texture files, plus a regression causing "Vulkan Code: -4" crashes.
+- **Build 0.1.17.2 (Feb 26, 2026):** medal award logic changed so Overseers could not be used to farm medals — credited to a player named rain.
+- **Build 0.1.18.5 (Mar 1, 2026):** new sound effects on the "STAGE CLEAR" screen and a fix for a Vulkan out-of-date swapchain crash triggered by moving the game window.
+
+The pattern is consistent: small, frequent, narrowly scoped patches with public credit given where community reports helped. That is the same cadence seen in the first week of Early Access.
+
+One caveat for readers — these demo builds are historical. They describe a version of the game that no longer exists on the store, and their fixes should not be assumed to map one-to-one onto current Early Access behavior.
+
+## FAQ
+
+**Is the FIRESTARTERS demo still available on Steam?**
+No. Studio Kerosene delisted the demo from the Steam Store when the game launched into Early Access with Episode One on October 28, 2026. The studio said the demo no longer represented the quality of the Early Access release.
+
+**What is the latest FIRESTARTERS update?**
+As of this writing, the most recent build is 0.2.2.7, released October 31, 2026. It fixed a startup crash tied to audio device initialization, repaired input rebinding on certain keyboard configurations such as Japanese keyboards, and updated some Japanese language strings.
+
+**Did the October 28 patch add any new content?**
+No. Build 0.2.2.1 contained two bug fixes only — a crash when playing with Russian language enabled and improper visual novel text wrapping at Ultrawide resolutions.
+
+**Where should I follow FIRESTARTERS updates going forward?**
+The [Steam News Hub for FIRESTARTERS](https://store.steampowered.com/news/app/3733710) is the studio's primary channel for patch notes and announcements, including the original demo delisting notice.
